@@ -35,11 +35,6 @@ Treinar a estrutura e estilização de uma landing page simples e responsiva, co
 
 ---
 
-## 🔗 Acesse a página
-
-👉 [Clique aqui para ver o projeto publicado](https://meulink.vercel.app)
-
----
 
 ## 🧠 Reflexão
 
